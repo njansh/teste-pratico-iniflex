@@ -1,4 +1,3 @@
-
 # Teste Prático - Iniflex
 
 Projeto desenvolvido como parte do processo seletivo para a Iniflex, com o objetivo de demonstrar conceitos de Orientação a Objetos, manipulação de coleções, formatação de dados e boas práticas com a linguagem Java.
@@ -60,9 +59,12 @@ src/
 * Git instalado.
 
 ### Passos
+
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/njansh/teste-pratico-iniflex.git](https://github.com/njansh/teste-pratico-iniflex.git)
+```bash
+git clone [https://github.com/njansh/teste-pratico-iniflex.git](https://github.com/njansh/teste-pratico-iniflex.git)
+
+```
 
 
 2. Abra o projeto na sua IDE de preferência (IntelliJ IDEA, Eclipse, VS Code).
@@ -77,3 +79,4 @@ javac -d out src/com/nadson/testepratico_iniflex/*.java
 # Executar
 java -cp out com.nadson.testepratico_iniflex.Principal
 
+```
